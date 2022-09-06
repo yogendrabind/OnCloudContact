@@ -40,13 +40,6 @@ npm run server
 npm run client
 ```
 
-
-```
-
-
-
-
-
 ## Author
 
 <blockquote>
