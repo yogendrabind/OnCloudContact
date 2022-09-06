@@ -41,10 +41,8 @@ npm run client
 ```
 
 ## Author
-...
 <blockquote>
 Yogendra Kr Bind
 Email: bindyogendra02@gmail.com
 </blockquote>
-...
 ========Thank You !!!=========
