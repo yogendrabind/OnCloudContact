@@ -48,7 +48,7 @@ You need to setup your mongo database connection string in "config/default.json"
 
 ## User Homepage
 
-![image](https://user-images.githubusercontent.com/19981097/68968679-60cf0b00-080d-11ea-9175-819d59248224.png)
+![image](https://github.com/yogendrabind/OnCloudContact/blob/master/OnCloudImage.png)
 
 ## Author
 
