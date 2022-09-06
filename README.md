@@ -40,12 +40,7 @@ npm run server
 npm run client
 ```
 
-```
-Server runs on http://localhost:5000 and client runs on http://localhost:3000
-```
 
-```
-You need to setup your mongo database connection string in "config/default.json" folder and also the jwt secret
 ```
 
 
