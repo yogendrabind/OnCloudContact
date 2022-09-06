@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://CloudContactProject:Yogi369@cluster0.cpcm1gz.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "eyJhbGciOiJIUzI1NiIsInR5cCI6InlvZ2VuZHJhIn0.eyJzdWIiOiIzNjkiLCJuYW1lIjoieW9nZW5kcmEiLCJpYXQiOjM2OX0.5-jrTUVBRe2ojU9XWQyev1ECe3CVYh7-d53AWIOJnYo"
+}
