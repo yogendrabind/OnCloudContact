@@ -1,5 +1,9 @@
 #OnCloudContact
 
+## User Homepage
+
+![image](https://github.com/yogendrabind/OnCloudContact/blob/master/OnCloudImage.png)
+
 Cloud Contact App Where User can Register, Login and then keep and manage their contacts in the cloud. In this project i have use Node Js, Express, Mongodb for Serving api and React With Redux for Frontend.
 
 # See live demo here
@@ -44,11 +48,9 @@ Server runs on http://localhost:5000 and client runs on http://localhost:3000
 You need to setup your mongo database connection string in "config/default.json" folder and also the jwt secret
 ```
 
-# Project snapshot
 
-## User Homepage
 
-![image](https://github.com/yogendrabind/OnCloudContact/blob/master/OnCloudImage.png)
+
 
 ## Author
 
