@@ -1,6 +1,10 @@
+<div align="center">
+
+# OnCloudContact
+
+</div>
 
 
-## OnCloudContact
 
 ![image](https://github.com/yogendrabind/OnCloudContact/blob/master/OnCloudImage.png)
 
